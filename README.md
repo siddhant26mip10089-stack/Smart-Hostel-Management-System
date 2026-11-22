@@ -8,7 +8,7 @@ The system uses SQLite for storing student, room, fee, complaint, and attendance
 
 ## Features
 
-* Student Management
+* management of school affairs
 * Room Management
 * Fees Management
 * Complaint Management
@@ -28,19 +28,7 @@ The system uses SQLite for storing student, room, fee, complaint, and attendance
 ## Project Structure
 
 ```text
-Smart-Hostel-Management-System/
-│
-├── main.py
-├── README.md
-├── statement.md
-│
-├── data/
-│   └── hostel.db
-│
-├── modules/
-│   ├── __init__.py
-│   ├── database.py
-│   ├── student.py
+Smart-Hostel-to the principal -python
 │   ├── room.py
 │   ├── fees.py
 │   ├── complaints.py
